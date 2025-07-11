@@ -1,0 +1,11 @@
+
+
+
+python openai_app.py "C:\Ruta\A\mi_video.mp4"
+
+
+python openai_app.py "D:\UNIR2\Máster\Entornos Integración y Entrega Continua\Clases"
+
+python openai_app.py "D:\UNIR2\Máster\Contenedores\Clases"
+
+python openai_app.py "D:\UNIR2\Máster\Gestion de Proyectos\Clases". Done - Tareas completadas y aceptadas
